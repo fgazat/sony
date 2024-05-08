@@ -1,4 +1,4 @@
-# Sony media
+# Sony media organizer tool
 
 Usage:
 
