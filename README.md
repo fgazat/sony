@@ -1,5 +1,12 @@
 # Sony media organizer tool
 
+Install:
+
+```
+go install github.com/fgazat/sony
+```
+
+
 Usage:
 
 ```
