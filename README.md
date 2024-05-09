@@ -13,7 +13,7 @@ Usage:
 sony sort -dst="DST_DIR" [PATH_TO_FOLDER_WITH_MEDIA]
 ```
 
-It will group standart Sony file structure to: 
+It will group standard Sony file structure to: 
 
 ```
 DST_DIR/
